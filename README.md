@@ -5,7 +5,7 @@ This repository contains an updated SQL database project for managing a digital 
 ## Project Structure
 
 - **Digital_Library.sql**: Main script with the creation of the database, tables, constraints, corrections, and INSERT statements with example data.
-- **Query Examples **: Includes examples of INSERT queries, conditions, aggregations, and relationships between tables.
+- **Query Examples**: Includes examples of INSERT queries, conditions, aggregations, and relationships between tables.
 
 ## Main Tables
 
@@ -35,4 +35,5 @@ Any suggestions or feedback are welcome.
 ---
 
 **Pedro**
+
 
